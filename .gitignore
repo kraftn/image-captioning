@@ -1,0 +1,6 @@
+bot/.idea/
+bot/__pycache__/
+.idea/
+__pycache__/
+bot/data/
+.ipynb_checkpoints/
